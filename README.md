@@ -59,4 +59,26 @@ Scrape detailed course information from TalentEdge, an edtech platform, for anal
 
 ---
 
-## 📁 Project Structure
+## ✅ Status
+Both scripts are functional and have been tested on a limited number of inputs. They serve as experimental prototypes and may require updates to work on new website layouts.
+
+---
+
+## 📌 Notes
+- Ensure appropriate headers and delays when scraping public websites.
+- Avoid high-frequency scraping to prevent IP bans or ToS violations.
+- Always respect site robots.txt and legal usage.
+
+---
+
+## 🚀 Future Improvements
+- Add proxy support and error handling.
+- Convert output to JSON/DB-ready format.
+- Integrate with a lead generation or course recommendation tool.
+
+---
+
+## 📄 License
+This project is for educational purposes only and does not promote scraping restricted or copyrighted content.
+
+
